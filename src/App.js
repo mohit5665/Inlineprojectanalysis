@@ -13,7 +13,7 @@ function App() {
 					<li><a href="#courses">States</a></li>
 					<li><a href="#tutorials">Live Events</a></li>
 					<li><a href="#jobs">Job Opportunities</a></li>
-					<li><a href='#student'>Travel Destinations</a></li>
+					<li><a href='#students'>Travel Destinations</a></li>
 				</ul>
 
 				<div class="rightNav">
